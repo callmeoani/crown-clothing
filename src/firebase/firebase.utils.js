@@ -1,7 +1,6 @@
 import firebase from 'firebase/compat/app'
 import 'firebase/compat/firestore'
 import 'firebase/compat/auth'
-import { useHref } from 'react-router'
 
 const config = {
     apiKey: "AIzaSyCSQWuBF-k3hHdh7wtBlGivRVxaEgzWTgI",
